@@ -1,0 +1,8 @@
+SCRIPT para criar TABELAS:
+
+npm run typeorm migration:create src/db/migrations/CreateClientesTable
+npm run typeorm migration:create src/db/migrations/CreateEnderecoTable
+npm run typeorm migration:create src/db/migrations/CreateTelefoneTable
+
+SCRIPT para rodar o data-source
+ npm run typeorm -- -d ./src/db/data-source.ts migration:run

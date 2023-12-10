@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 4aa56635164d7b38176f8c83afb1c3483716dc29 Thiago Zani <thiago.zani@uol.com.br> 1701709457 -0300	commit (initial): first commit
+4aa56635164d7b38176f8c83afb1c3483716dc29 4aa56635164d7b38176f8c83afb1c3483716dc29 Thiago Zani <thiago.zani@uol.com.br> 1701709465 -0300	Branch: renamed refs/heads/master to refs/heads/main
+4aa56635164d7b38176f8c83afb1c3483716dc29 1154892af40db82b3e7909fbf63a377ec24ca542 Thiago Zani <thiago.zani@uol.com.br> 1701871598 -0300	commit: subindo projeto atualizado
+1154892af40db82b3e7909fbf63a377ec24ca542 6c1ed52e4656648b8758eb3904bbdbe79367aee0 Thiago Zani <thiago.zani@uol.com.br> 1701889381 -0300	commit: cards listagem acomodacoes
+6c1ed52e4656648b8758eb3904bbdbe79367aee0 e2f6ba6545fd0e352be72d28548782212ede892c Thiago Zani <thiago.zani@uol.com.br> 1701965910 -0300	commit: front finalizado!
+e2f6ba6545fd0e352be72d28548782212ede892c 8f61f967771c91e1cfe3d9f4835ed84bdb1b0e71 Thiago Zani <thiago.zani@uol.com.br> 1701967688 -0300	commit: inicializando o projeto
+8f61f967771c91e1cfe3d9f4835ed84bdb1b0e71 2ee147bafc5a8e645b4365b0a906ced3842ffca2 Thiago Zani <thiago.zani@uol.com.br> 1702051806 -0300	commit: create e listar cliente ok!
+2ee147bafc5a8e645b4365b0a906ced3842ffca2 9436f2a68fda8d9aada27ebefb08fc34c849ca73 Thiago Zani <thiago.zani@uol.com.br> 1702053413 -0300	commit (amend): update cliente
+9436f2a68fda8d9aada27ebefb08fc34c849ca73 5b03e9204bcc5ea5cc05be31217166cd2b6e0df7 Thiago Zani <thiago.zani@uol.com.br> 1702053617 -0300	commit (merge): update OK!
+5b03e9204bcc5ea5cc05be31217166cd2b6e0df7 68c10e16b55384d321c490fb978b8c0884d94b39 Thiago Zani <thiago.zani@uol.com.br> 1702054025 -0300	commit: delete ok!
+68c10e16b55384d321c490fb978b8c0884d94b39 0d7ba87b2f4fb7b8c9bb691377299388f2c6afe6 Thiago Zani <thiago.zani@uol.com.br> 1702059893 -0300	commit: endereco implementado ao cliente
+0d7ba87b2f4fb7b8c9bb691377299388f2c6afe6 015bbadbb07c87b0eb141df8df86875367787a9b Thiago Zani <thiago.zani@uol.com.br> 1702119551 -0300	commit: melhoria postCliente
+015bbadbb07c87b0eb141df8df86875367787a9b 1bcf6d469a50db15184e72cdfa04a5c0b3ad3353 Thiago Zani <thiago.zani@uol.com.br> 1702120362 -0300	commit: ajustes para retornar endereco no post cliente
+1bcf6d469a50db15184e72cdfa04a5c0b3ad3353 5a5a8038ed58e618ba3188e91bad684e7f7167d8 Thiago Zani <thiago.zani@uol.com.br> 1702173777 -0300	commit: projeto atv V

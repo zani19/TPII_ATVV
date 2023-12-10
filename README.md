@@ -23,8 +23,8 @@
 ### BACK-END
 - Na pasta `atlantis-back`, execute o comando `npm install` para instalar as dependências utilizadas no projeto.
 - Abra o servidor Mysql.
-- Na pasta backend, altere as confugurações do arquivo `conexão.js` de acordo com as informações do seu SGBD
-- Execute o comando `npm start` para executar o projeto.
+- Na pasta db, altere as confugurações do arquivo `data-source.ts` de acordo com as informações do seu SGBD
+- Execute o comando `npm run back` para executar o projeto.
 
 ## Equipe
 
